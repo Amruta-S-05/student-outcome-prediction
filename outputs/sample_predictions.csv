@@ -1,0 +1,9 @@
+row_in_csv,Actual,Predicted,P(Dropout),P(Enrolled),P(Graduate),Correct
+2873,Graduate,Dropout,0.469,0.242,0.289,False
+891,Dropout,Dropout,0.686,0.163,0.151,True
+3799,Dropout,Dropout,0.777,0.132,0.091,True
+1250,Graduate,Graduate,0.254,0.228,0.518,True
+555,Dropout,Enrolled,0.344,0.395,0.26,False
+1199,Graduate,Graduate,0.329,0.296,0.375,True
+248,Graduate,Graduate,0.271,0.301,0.428,True
+295,Graduate,Graduate,0.13,0.254,0.616,True

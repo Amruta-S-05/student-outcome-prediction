@@ -1,0 +1,7 @@
+,Model,precision,recall,f1-score,support
+Dropout,Logistic Regression,0.6862,0.5775,0.6272,284.0
+Enrolled,Logistic Regression,0.3007,0.522,0.3816,159.0
+Graduate,Logistic Regression,0.7027,0.5882,0.6404,442.0
+Dropout,Random Forest,0.5993,0.6373,0.6177,284.0
+Enrolled,Random Forest,0.3267,0.3082,0.3172,159.0
+Graduate,Random Forest,0.7113,0.6968,0.704,442.0
